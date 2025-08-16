@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="U1iIT4fZyU6nGlVbsoaGzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="54fab9d1-502c-4ce6-be0d-e6cf62f77f40" CvElementArea="859, 825, 200, 64" CvTextArea="909, 848, 99, 22" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="862, 827, 195, 60" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="65cc1ec9-65ab-44c6-bc9b-48a7297b1db8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bc5984948793263c2ffaf07210416a73.png" xmlns="">07AuislloYkarz3NoJJVQiw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
